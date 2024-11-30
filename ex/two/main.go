@@ -1,8 +1,13 @@
-package main;
+package main
 
-import "fmt";
+import "fmt"
 
 func main() {
-    fmt.Println("Hello from two");        
-    intTypes();
+	fmt.Println("Hello from two")
+	// intTypes()
+	// typeReal()
+	// typChar()
+	// typeBoolean()
+	// typeConv()
+    // printSwap()
 }
